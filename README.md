@@ -7,6 +7,10 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 # TEAM MEMBERS: SANJAIRAJ M , RUPESH V, RITHWIN PRASEED.
 
+#Demo_Link_You tube : https://youtu.be/6MU_YC6KWE8
+
+#Demo_Link_Drive : https://drive.google.com/file/d/1AQUJdljvZoRgdcv8n54NI5tWskXbgC9c/view?usp=sharing.
+
 #PROJECT DESCRIPTION :
 
 The project deals on building an application which helps the specially challenged people to communicate between them and the common people. Communication between a person with hearing/speech impairment and a normal person has always been a challenging task. This application tries to reduce the barrier of communication by developing an assistive application for specially challenged people.
@@ -39,3 +43,8 @@ WEEK 2 ASSESMENT : https://drive.google.com/file/d/14I_pkuCwP-0K8GyNdTU2i-1gKh5U
 WEEK 3 ASSESMENT : https://colab.research.google.com/drive/1njprNZk1iJPNFSAB5kHlLyc7qeUPjSZj?usp=sharing
 
 WEEK 4 ASSESMENT : https://colab.research.google.com/drive/1BnypRshKVuiEaFm76bMvIL0kkrIeCBUp?usp=sharing
+
+
+#Demo_Link_You tube : https://youtu.be/6MU_YC6KWE8
+
+#Demo_Link_Drive : https://drive.google.com/file/d/1AQUJdljvZoRgdcv8n54NI5tWskXbgC9c/view?usp=sharing.
