@@ -1,1 +1,9 @@
+For building the model using cnn algorithm we add the layers between the neural network
+1.)convolutional layer
+2.)polling layer
+3.)flatten layer
+4.)neural layer
 
+model = sequential 
+
+after building the model we fit the model with nearly 10 to 15 epochs
